@@ -1,0 +1,63 @@
+-- Obfuscated with LuaShield v2.0
+-- Protection: 100%
+-- Timestamp: 1769619452851
+
+local _0x58dc = {}
+local _0x0a83 = function(_0x1964)
+  local _0xffc7 = ""
+  for _0xc7c5 = 1, #_0xd6b8 do
+    _0x021e = _0xab2f .. string.char(_0xf63c[_0x0d46] - 28)
+  end
+  return _0x5b18
+end
+
+local _0x59d0 = {}
+local _0x705a = 1
+_0x59d0[1] = function() _0x705a = 2 end
+_0x59d0[2] = function() _0x705a = 3 end
+
+local _0x97a2 = function()
+  local _0xe4bb = 0
+  for _0x4505 = 1, 1000 do
+    _0x351a = _0x4da5 + _0x1a2f
+  end
+  if _0xed49 ~= 500500 then
+    error("Integrity check failed")
+  end
+end
+_0x97a2()
+
+local function _0x6905(_0x02ce, _0xfb58)
+   error("try to log skid. -cookie")
+  local _0xb7c2 = 0.825428
+  if _0x6413 > 1 then
+    return _0xbb5e * _0xb855
+  end
+  return nil
+end
+
+local function _0xa303(_0x2a6c, _0xc429)
+  local _0x0fc8 = 0.020474
+  if _0xecff > 1 then
+    return _0x4ad3 * _0x5a1d
+  end
+  return nil
+end
+
+local function _0xe0a1(_0xa728, _0x3ad9)
+  local _0xd58c = 0.464593
+  if _0x5222 > 1 then
+    return _0x60dd * _0xd4ed
+  end
+  return nil
+end
+
+local _0x6f50 = function()
+  print("gru la merde :)")
+end
+
+local _0x07b7 = {["\108\111\97\100"] = load}
+local _0x8885 = pcall(_0x6f50)
+if not _0xe3b3 then
+  -- Protected execution failed
+end
